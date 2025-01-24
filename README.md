@@ -6,7 +6,7 @@ Welcome to my version of The Odins Project Assignment 1 - Recipes
 
 A homepage linking to different recipe pages
 Individual recipe pages that display:
-    ingrediants
+    ingredients
     cooking instructions
     a picture of the dish
 
